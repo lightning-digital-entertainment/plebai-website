@@ -3,7 +3,8 @@ export default defineAppConfig({
   cover: '/cover.png',
   socials: {
     twitter: 'getcurrent_io',
-    github: 'lightning-digital-entertainment/plebai'
+    github: 'lightning-digital-entertainment/plebai',
+    discord: 'https://discord.gg/5nFRyc2X'
   },
   prose: {
     h1: {
