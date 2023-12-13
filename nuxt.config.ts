@@ -6,7 +6,7 @@ export default defineNuxtConfig({
       script: [
         {
           // injects the config based on the environment
-            src: "https:/i.current.fyi/static/plebai.js",      
+            src: "https://starbackr-images.s3.amazonaws.com/static/plebai.js",      
         },
         {
           src: 'https://starbackr-images.s3.amazonaws.com/static/constants.js'
@@ -17,7 +17,7 @@ export default defineNuxtConfig({
 
           {
             rel:"stylesheet",
-            href:"https:/i.current.fyi/static/styles.css"
+            href:"https://starbackr-images.s3.amazonaws.com/static/styles.css"
 
           }
 
